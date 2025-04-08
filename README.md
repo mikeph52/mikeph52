@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikeph52
 - 👀 I’m interested in Bioinformatics and software development.
-- 🌱 I’m currently learning C/C++, Rust.
+- 🌱 I’m currently learning Python, C/C++, Rust.
 - 💞️ I’m looking to collaborate on Biopython projects.
 - 📫 How to reach me: mikeph526@outlook.com
 - 😄 Pronouns: all
